@@ -28,6 +28,7 @@ If you need to apply these modules to other codes, we recommend the following:
 
 ## Citation
 If you use this code in your research, please cite the following paper:
+
 @article{sun2024adaptive,
   title={Adaptive spatial-channel feature fusion and self-calibrated convolution for early maize seedlings counting in UAV images},
   author={Sun, Zhenyuan and Yang, Zhi and Ding, Yimin and Sun, Boyan and Li, Saiju and Guo, Zhen and Zhu, Lei},
